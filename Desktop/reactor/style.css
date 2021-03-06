@@ -1,0 +1,33 @@
+.circle1 {
+      width: 20px;
+      height: 20px;
+      border-radius: 10px;
+      background: #F08080;
+	  text-align: center;
+}
+.circle2 {
+      width: 20px;
+      height: 20px;
+      border-radius: 10px;
+      background: #3CB371;
+	  text-align: center;
+}
+.circle {
+	  width: 20px;
+      height: 20px;
+      border-radius: 10px;
+	  background: #FFFFFF;
+	  text-align: center;
+}
+#green {
+	background: #3CB371;
+}
+#red {
+	background: #F08080;
+}
+.line h1, p, div, form, table, input {
+	display:inline-block;
+	}
+.line {
+	display:block;
+}	
